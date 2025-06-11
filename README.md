@@ -13,7 +13,7 @@
 | Blue Dream Hazy IPA | Four Winds Brewing | [fourwindsbrewing.ca](https://fourwindsbrewing.ca/) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Four+Winds+Brewing) |
 | Imperial Pear Elderflower Love Buzz | Strathcona Brewery Inc | [strathconabeer.com](https://www.strathconabeer.com/) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Strathcona+Brewery) |
 | Peach Wit | Britannia Brewing Co | [bbco.ca](https://www.bbco.ca/) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Britannia+Brewing+Co+Steveston) |
-| English Pale Ale | Train Wreck Brewing | [trainwreckbrewing.com](https://www.trainwreckbrewing.com/) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Train+Wreck+Brewing) |
+| English Pale Ale | Train Wreck Brewing | [trainwreckbrewing.ca](https://trainwreckbrewing.ca) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Train+Wreck+Brewing) |
 | Tickity Boo | Twin City Brewing Company Ltd. | [twincitybrewing.ca](https://twincitybrewing.ca/) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Twin+City+Brewing+Company) |
 | Bellhop - Porter | Abandoned Rail Brewing Co. | [abandonedrail.com](https://www.abandonedrail.com/) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Abandoned+Rail+Brewing+Co.) |
 | Bootlegger Brown Ale | Smithers Brewing Company | [smithersbrewing.com](https://www.smithersbrewing.com/) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Smithers+Brewing+Company) |
